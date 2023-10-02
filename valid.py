@@ -1,6 +1,6 @@
 
 
-# Create a random list of lst
+# load lottery data list of lst
 lst = [[23,27,28,34,38,43,48
 ],[3,4,12,21,41,49,5
 ],[18,19,22,30,41,48,47
