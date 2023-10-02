@@ -1,8 +1,6 @@
-import pandas as pd
-import numpy as np
+
 
 # Create a random list of lst
-np.random.seed(0)
 lst = [[23,27,28,34,38,43,48
 ],[3,4,12,21,41,49,5
 ],[18,19,22,30,41,48,47
@@ -460,8 +458,7 @@ lst = [[23,27,28,34,38,43,48
 ],[3,10,31,38,39,41,34
 ],[8,10,18,32,33,42,40
 ],[5,9,14,29,37,38,18], [10,14,17,22,25,38,24],[5,18,22,26,28,45,14], [9,17,25,30,38,48,35]]
-import numpy as np
-import random
+
 
 # Create a dictionary to store the frequencies of each number and its followers
 number_followers = {}
